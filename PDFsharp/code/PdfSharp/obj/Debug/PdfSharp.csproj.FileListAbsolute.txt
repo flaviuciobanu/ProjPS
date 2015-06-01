@@ -1,0 +1,12 @@
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.xml
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.dll
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\bin\Debug\PdfSharp.pdb
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Forms.PagePreview.resources
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Forms.PagePreviewCanvas.resources
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.resources
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.Resources.Messages.de.resources
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.csproj.GenerateResource.Cache
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\de\PdfSharp.resources.dll
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.dll
+C:\Users\Flaviu\Desktop\Anu III\PS\ProiectPs\PDFsharp\code\PdfSharp\obj\Debug\PdfSharp.pdb

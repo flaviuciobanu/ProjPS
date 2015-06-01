@@ -1,0 +1,54 @@
+﻿@model IEnumerable<StoreManager.Models.Product>
+
+@{
+    ViewBag.Title = "FinalizeSale";
+}
+
+<h2>FinalizeSale</h2>
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nume)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DataFabricatie)
+        </th>
+       
+        <th>
+            @Html.DisplayNameFor(model => model.Pret)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+  
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nume)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DataFabricatie)
+        </td>
+      
+        <td>
+            @Html.DisplayFor(modelItem => item.Pret)
+        </td>
+          <td>
+           
+            
+        </td>
+    </tr>
+    
+   
+}
+   
+           
+        
+     @Html.ActionLink("Back", "Index") 
+      @Html.ActionLink("Clear Selected Products", "clearProducts") 
+    @Html.ActionLink("Export Invoice to Pdf", "exportPDF") 
+</table>
+<h2> Pret total:
+    @ViewData["pretTotal"]
+    </h2>

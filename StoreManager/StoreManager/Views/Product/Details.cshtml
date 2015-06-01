@@ -1,0 +1,43 @@
+﻿@model StoreManager.Models.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Product</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Nume)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Nume)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DataFabricatie)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DataFabricatie)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Stoc)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Stoc)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Pret)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Pret)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
